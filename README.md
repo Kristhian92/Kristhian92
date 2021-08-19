@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kristhian92
-- 👀 I’m interested in : La musica y la programación
+- 👀 I’m interested in : La música y la programación 
 - 🌱 I’m currently learning : Programación
 - 💞️ I’m looking to collaborate on: Programación y Música 
 - 📫 How to reach me: kristhianlizcano@gmail.com 
