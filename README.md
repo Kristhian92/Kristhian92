@@ -45,16 +45,6 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 &nbsp;
 
 ## :pushpin: My Proyects
-## Videogames App
-<a href="pi-videogames-client-8q2d.vercel.app">pi-videogames-client-8q2d.vercel.app</a>
-
-
-
-
-https://user-images.githubusercontent.com/88893885/194922530-0ba26b45-6882-4637-a859-c27c646c7abe.mp4
-
-
-
 ## Dogs App
 <a href="pi-dogs-client-7gtq.vercel.app">pi-dogs-client-7gtq.vercel.app</a>
 
@@ -63,6 +53,18 @@ https://user-images.githubusercontent.com/88893885/194922530-0ba26b45-6882-4637-
 
 
 https://user-images.githubusercontent.com/88893885/194921914-23a695ed-324f-45f7-97f8-629b414747ec.mp4
+
+
+
+
+## Videogames App
+<a href="pi-videogames-client-8q2d.vercel.app">pi-videogames-client-8q2d.vercel.app</a>
+
+
+
+
+https://user-images.githubusercontent.com/88893885/194922530-0ba26b45-6882-4637-a859-c27c646c7abe.mp4
+
 
 
 
