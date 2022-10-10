@@ -44,26 +44,41 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 
 &nbsp;
 
-## :pushpin: My proyects
+## :pushpin: My Proyects
+## Videogames App
+<a href="pi-videogames-client-8q2d.vercel.app">pi-videogames-client-8q2d.vercel.app</a>
 
-<p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/home.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
-</p>
-<p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/reviews.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/average.png"></a>
-</p>
 
-<h3>Pedidotopia</h3>
-<p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/tabla.jpg"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/nuevoprod.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/imagen.png"></a>
-</p> 
+
+
+https://user-images.githubusercontent.com/88893885/194922530-0ba26b45-6882-4637-a859-c27c646c7abe.mp4
+
+
+
+## Dogs App
+<a href="pi-dogs-client-7gtq.vercel.app">pi-dogs-client-7gtq.vercel.app</a>
+
+
+
+
+
+https://user-images.githubusercontent.com/88893885/194921914-23a695ed-324f-45f7-97f8-629b414747ec.mp4
+
+
+
 &nbsp;
+
+
+
+
+## :pushpin: My Proyects Grupal
+## Freevents App
+<a href="freevents.vercel.app">freevents.vercel.app</a>
+
+
+
+https://user-images.githubusercontent.com/88893885/194923877-5382bf76-4fc7-4511-8bec-c57640848988.mp4
+
 
 ## :paperclip: How to reach me:
 <span >
