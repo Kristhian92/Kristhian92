@@ -4,11 +4,20 @@
 
 
 
-- 👋 Hi, I’m @Kristhian92
-- 👀 I’m interested in : La música y la programación 
-- 🌱 I’m currently learning : Programación
-- 💞️ I’m looking to collaborate on: Programación y Música 
-- 📫 How to reach me: kristhianlizcano@gmail.com 
+- 👋 Hi, I’m Kristhian Lizcano
+
+- 👀 About Me : 
+I am a Full Stack Developer, I love learning new technologies and work methodologies. The technologies I use are
+HTML, CSS, JavaScript, React.js, Node.js, Redux, Express, Sequelize, Mongo DB. Experience in Google cloud / Auth0 technologies, Nodemailer In addition to handling design tools such as Autocad, CNC programming.
+
+- 💞️ I’m looking to collaborate on: In projects such as Frontend Developer, Backend Developer and Full Stack Developer.
+- 📫 How to reach me: 
+
+📩 kristhianlizcano@gmail.com
+&nbsp;
+📘 https://www.linkedin.com/in/kristhianlizcano/
+&nbsp;
+💻 
 
 <!---
 Kristhian92/Kristhian92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,7 +55,7 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 
 ## :pushpin: My Proyects
 ## Dogs App
-<a href="pi-dogs-client-7gtq.vercel.app">pi-dogs-client-7gtq.vercel.app</a>
+<a href="https://pi-dogs-client-7gtq.vercel.app/">pi-dogs-client-7gtq.vercel.app</a>
 
 
 
@@ -58,32 +67,37 @@ https://user-images.githubusercontent.com/88893885/194921914-23a695ed-324f-45f7-
 
 
 ## Videogames App
-<a href="pi-videogames-client-8q2d.vercel.app">pi-videogames-client-8q2d.vercel.app</a>
+<a href="https://pi-videogames-client-8q2d.vercel.app/">pi-videogames-client-8q2d.vercel.app</a>
 
 
 
 
-https://user-images.githubusercontent.com/88893885/194922530-0ba26b45-6882-4637-a859-c27c646c7abe.mp4
+
+
+https://user-images.githubusercontent.com/88893885/194975822-bd6d363c-315b-411c-b443-878e598d4fc4.mp4
 
 
 
 
-&nbsp;
 
+
+&nbsp;&nbsp;
 
 
 
 ## :pushpin: My Proyects Grupal
 ## Freevents App
-<a href="freevents.vercel.app">freevents.vercel.app</a>
+<a href="https://freevents.vercel.app/">freevents.vercel.app</a>
 
 
 
 https://user-images.githubusercontent.com/88893885/194923877-5382bf76-4fc7-4511-8bec-c57640848988.mp4
 
+&nbsp;&nbsp;
+
 
 ## :paperclip: How to reach me:
 <span >
-<a href="https://www.linkedin.com/in/kristhianlizcano/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
-<a href="mailto:kristhianlizcano@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+<a href="https://www.linkedin.com/in/kristhianlizcano/" ><img width="5%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> &nbsp;
+<a href="mailto:kristhianlizcano@gmail.com" ><img width="5%" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
 </span>
