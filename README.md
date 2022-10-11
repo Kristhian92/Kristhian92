@@ -136,3 +136,9 @@ https://user-images.githubusercontent.com/88893885/194923877-5382bf76-4fc7-4511-
 <a href="https://www.linkedin.com/in/kristhianlizcano/" ><img width="5%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> &nbsp;
 <a href="mailto:kristhianlizcano@gmail.com" ><img width="5%" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
 </span>
+
+## :paperclip: Download CV:
+
+<a href="https://www.tiktok.com/@kristhianlizcano">
+<img src=https://img.shields.io/badge/dowmload-%2308090A.svg?&style=for-the-badge&logo=dowmload.to&logoColor=white alt=dowmload style="margin-bottom: 5px;" />
+</a>
