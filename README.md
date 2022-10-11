@@ -53,9 +53,16 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 </p>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kristhian92&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table><tr><td valign="top" width="50%">
 
-<br/>  
+<img src="https://github-readme-stats.vercel.app/api?username=Kristhian92&show_icons=true&count_private=true&hide_border=true" align="left" />
+
+</td> <td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kristhian92&hide_border=true&layout=compact" align="left" />
+
+</td></tr></table>  
+
 
 &nbsp;
 
@@ -121,10 +128,7 @@ https://user-images.githubusercontent.com/88893885/194923877-5382bf76-4fc7-4511-
 </a>
 <a href="https://instagram.com/kristhianlizcano">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.twitch.tv/kristhianlizcanoo">
-<img src=https://img.shields.io/badge/twitch-%23000000.svg?&style=for-the-badge&logo=twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" />
-</a>  
+</a>    
 </div>  
 
 
