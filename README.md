@@ -1,4 +1,4 @@
-![Hi, I'm Kristhian](./images/Portada2.gif)
+<a><img width="120%" src="./images/Portada2.gif"></a>
 
 
 
