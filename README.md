@@ -69,10 +69,8 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 ## :pushpin: My Proyects
 ## Dogs App
 ## Link: <a href="https://pi-dogs-client-7gtq.vercel.app/">pi-dogs-client-7gtq.vercel.app</a>
-## Images:
+## Image:
 <p>
-  <a><img src="./images/App Dog.png"></a>
-  <a><img src="./images/Dogs App2.png"></a>
   <a><img src="./images/Dogs App3.png"></a>
 </p>
 
@@ -84,11 +82,9 @@ https://user-images.githubusercontent.com/88893885/194921914-23a695ed-324f-45f7-
 
 ## Videogames App
 ## Link: <a href="https://pi-videogames-client-8q2d.vercel.app/">pi-videogames-client-8q2d.vercel.app</a>
-## Images:
+## Image:
 <p>
   <a><img src="./images/Videogames App.png"></a>
-  <a><img src="./images/Videogames App2.png"></a>
-  <a><img src="./images/Videogames App3.png"></a>
 </p>
 
 ## Video:
@@ -101,11 +97,9 @@ https://user-images.githubusercontent.com/88893885/194975822-bd6d363c-315b-411c-
 ## :pushpin: My Proyects Grupal
 ## Freevents App
 ## Link: <a href="https://freevents.vercel.app/">freevents.vercel.app</a>
-## Images:
+## Image:
 <p>
   <a><img src="./images/Freevents App.png"></a>
-  <a><img src="./images/Freevents App2.png"></a>
-  <a><img src="./images/Freevents App3.png"></a>
 </p>
 
 ## Video:
