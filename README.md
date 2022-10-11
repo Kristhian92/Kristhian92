@@ -52,6 +52,11 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
   <br />
 </p>
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kristhian92&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
 &nbsp;
 
 ## :pushpin: My Proyects
@@ -95,6 +100,32 @@ https://user-images.githubusercontent.com/88893885/194975822-bd6d363c-315b-411c-
 https://user-images.githubusercontent.com/88893885/194923877-5382bf76-4fc7-4511-8bec-c57640848988.mp4
 
 &nbsp;&nbsp;
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Kristhian92">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/KristianLizcano">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.tiktok.com/@kristhianlizcano">
+<img src=https://img.shields.io/badge/tiktok-%2308090A.svg?&style=for-the-badge&logo=tiktok.to&logoColor=white alt=tiktok style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/kristhianlizcano/">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100016686514918">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/kristhianlizcano">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.twitch.tv/kristhianlizcanoo">
+<img src=https://img.shields.io/badge/twitch-%23000000.svg?&style=for-the-badge&logo=twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 
 ## :paperclip: How to reach me:
