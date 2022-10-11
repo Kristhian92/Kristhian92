@@ -1,4 +1,4 @@
-![Hi, I'm Kristhian](https://crehana-blog.imgix.net/media/filer_public/9a/70/9a70a096-b049-4280-b574-7cb3fe4574f5/full-stack.jpg)
+![Hi, I'm Kristhian](./images/Portada2.gif)
 
 
 
@@ -68,42 +68,47 @@ Full Stack Developer :heart: from Colombia to :earth_americas:
 
 ## :pushpin: My Proyects
 ## Dogs App
-<a href="https://pi-dogs-client-7gtq.vercel.app/">pi-dogs-client-7gtq.vercel.app</a>
+## Link: <a href="https://pi-dogs-client-7gtq.vercel.app/">pi-dogs-client-7gtq.vercel.app</a>
+## Images:
+<p>
+  <a><img src="./images/App Dog.png"></a>
+  <a><img src="./images/Dogs App2.png"></a>
+  <a><img src="./images/Dogs App3.png"></a>
+</p>
 
-
-
-
-
+## Video:
 https://user-images.githubusercontent.com/88893885/194921914-23a695ed-324f-45f7-97f8-629b414747ec.mp4
 
 
 
 
 ## Videogames App
-<a href="https://pi-videogames-client-8q2d.vercel.app/">pi-videogames-client-8q2d.vercel.app</a>
+## Link: <a href="https://pi-videogames-client-8q2d.vercel.app/">pi-videogames-client-8q2d.vercel.app</a>
+## Images:
+<p>
+  <a><img src="./images/Videogames App.png"></a>
+  <a><img src="./images/Videogames App2.png"></a>
+  <a><img src="./images/Videogames App3.png"></a>
+</p>
 
-
-
-
-
-
+## Video:
 https://user-images.githubusercontent.com/88893885/194975822-bd6d363c-315b-411c-b443-878e598d4fc4.mp4
-
-
-
-
 
 
 &nbsp;&nbsp;
 
 
-
 ## :pushpin: My Proyects Grupal
 ## Freevents App
-<a href="https://freevents.vercel.app/">freevents.vercel.app</a>
+## Link: <a href="https://freevents.vercel.app/">freevents.vercel.app</a>
+## Images:
+<p>
+  <a><img src="./images/Freevents App.png"></a>
+  <a><img src="./images/Freevents App2.png"></a>
+  <a><img src="./images/Freevents App3.png"></a>
+</p>
 
-
-
+## Video:
 https://user-images.githubusercontent.com/88893885/194923877-5382bf76-4fc7-4511-8bec-c57640848988.mp4
 
 &nbsp;&nbsp;
