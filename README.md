@@ -10,14 +10,15 @@
 I am a Full Stack Developer, I love learning new technologies and work methodologies. The technologies I use are
 HTML, CSS, JavaScript, React.js, Node.js, Redux, Express, Sequelize, Mongo DB. Experience in Google cloud / Auth0 technologies, Nodemailer In addition to handling design tools such as Autocad, CNC programming.
 
-- 💞️ I’m looking to collaborate on: In projects such as Frontend Developer, Backend Developer and Full Stack Developer.
+- 🤝 I’m looking to collaborate on: In projects such as Frontend Developer, Backend Developer and Full Stack Developer.
+
 - 📫 How to reach me: 
 
 📩 kristhianlizcano@gmail.com
 &nbsp;
 📘 https://www.linkedin.com/in/kristhianlizcano/
 &nbsp;
-💻 
+💻 https://kristhian92-github-5tcs975pn-kristhian92.vercel.app/
 
 <!---
 Kristhian92/Kristhian92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
