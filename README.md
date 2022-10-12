@@ -140,5 +140,5 @@ https://user-images.githubusercontent.com/88893885/194923877-5382bf76-4fc7-4511-
 ## :paperclip: Download CV:
 
 <a href="download/../images/CV.pdf" download="../images/CV.pdf">
-<img src=https://img.shields.io/badge/dowmload-%2308090A.svg?&style=for-the-badge&logo=dowmload.to&logoColor=white alt=dowmload style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/download-%2308090A.svg?&style=for-the-badge&logo=download.to&logoColor=white alt=download style="margin-bottom: 5px;" />
 </a>
